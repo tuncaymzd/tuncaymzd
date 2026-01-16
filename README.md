@@ -1,8 +1,9 @@
 👋 Hi, I’m @tuncaymzd.
 
-I'm full stack JS developer with 4 years of experience.
-- 🔭 I’m currently working on Orange Business Service.
-- 👀 I’m interested in well built website, callbot, web3 and cloud.
+I'm software engineer with 7 years of experience.
+- 🔭 I’m currently working on Macq SA.
+- 🛠️ My current technical stack consists of Angular, Scala, Kafka, MongoDB, Ansible, and Python.
+- 👀 I am very interested in web products.
 
 <!---
 tuncaymzd/tuncaymzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
